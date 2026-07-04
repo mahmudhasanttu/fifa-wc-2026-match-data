@@ -1,9 +1,8 @@
+# FIFA Scraped Match Data
 
-# FIFA Match Data
-
-This repository contains a cleaned CSV dataset of FIFA match-level team statistics used for a football analytics project.
+This repository contains a cleaned CSV dataset of FIFA match-level team statistics used for a football analytics and efficiency modeling project.
 
 ## File
 
 ```text
-data/fifa_match_data.csv
+fifa_match_data.csv
